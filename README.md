@@ -23,3 +23,37 @@ Ahora vamos implementar el modo oscuro y claro utilizando la variable constante,
 ![imagen4](1.Calculadora/img/imagen4.png "imagen4")
 
 Luego le vamos a añadir el icono para la ventana de la calculadora para eso la vamos a descar de una pagina web 
+
+# 2 MENU 1
+En el video nos muestra como vamos a hacer un menu donde se  va a poder adactar a la ventana y estaremos usando unas herramientas como el de la calculadora, agregaremos tambien tempozador.
+
+Además usaremos css para decorar o estilo nuestro menú, estaremos usando iconos en una herramienta que nos da el que es ionicons 
+
+![foto](2_menu.1/foto.png "foto")
+
+En esta herramienta ionicons estaremos usando los iconos que seran de mejor convenencia para nuestro menú. Ahora estaremos usando los  estilos, y usaremos un github donde vamos a usar fonts-googleapies y copiar ese codigo llevandolo a nuestro style.css
+
+![foto2](2_menu.1/foto2.png "foto2")
+
+Luego de eso estaremos arreglando o decorando el cuerpo de el menú y añadiendo le transición sea suave y tendra una animación, le daremos borde,todo esto es gracias a inset
+
+![foto3](2_menu.1/foto3.png "foto3")
+ 
+ Además vamos a terminar las ubicaciones donde se enceuntra el Home, messanger, ect, haciendo que se vean mas organizadas y gracias que el icono no es una imagen podemos cambiarle el color a nuestra voluntad pero esto se puede a la herramientas que estamos usando, luego le agregaremos como un fondo al icono viendo se algo así:
+
+ ![foto4](2_menu.1/foto4.png "foto4")
+
+ Y le añadiremos la transición y decoraremos esa parte de menu y con background le indicaremos que agarre cada uno de los colores ya indicados y tambien un iluminado.
+
+ ![foto5](2_menu.1/foto5.png "foto5")
+
+ Y estaremos arreglando para que el texto se oculte con una transición.
+
+![foto6](2_menu.1/foto6.png "foto6")
+
+Ahora usaremos javascript arreglando las rallas del menú implementando le unas funciones para darle una indicación especifica que deben cumplir.
+
+Y al finalizar ya al decorar y arreglar el menú, no nos salga ningun error nos saldra algo así
+
+![foto7](2_menu.1/foto7.png "foto7")
+![foto8](2_menu.1/foto8.png "foto8")
