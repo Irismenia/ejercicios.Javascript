@@ -73,3 +73,15 @@ Vamos a simular un error de "codigo", utilizando unas herramientas para que esto
 Y al hacer todo el proceso de css para decorar y agregarle forma, centrarlo, decorarlo y ponerle color y texto se verá así.
 
 ![foto](3.Toggle/img/foto9.png "foto9")
+
+# DARK THEME 
+
+En este proyecto vamos a ver  un tool es una funcionalidad muy facil con el tema claro y oscuro y usaremos las herramientas css, scss, html y js, usaremos un identificador, tendremos un boton que cuando le agamos click estará en off y se le de otro click va a estrar en on dentro del tool y se le dara unos estilos y cuando la clase se active lo que vamos a hacer es que se cambie aun tono blanco
+
+Al finalizar despues de decorar y acomodar los botones se va a ver algo así:
+
+![foto11](4.Dark_theme/img/foto11.png "foto11")
+
+modo claro:
+
+![foto12](4.Dark_theme/img/foto12.png "foto12")
