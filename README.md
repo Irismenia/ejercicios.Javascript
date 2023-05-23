@@ -85,3 +85,17 @@ Al finalizar despues de decorar y acomodar los botones se va a ver algo así:
 modo claro:
 
 ![foto12](4.Dark_theme/img/foto12.png "foto12")
+# MENU DE KFC
+Lo que haremos en el ultimo ejercicio es como dice un titulo un menú de KFC donde utilizaremos todo lo que hemos echos en los anteriores ejercicios utilizando css, javascript, scss, css.map poniendo le los anchos máximos y minímos para el menú, haciendo como que el menú sea desplegable ya que cuando este en modo telefono la pantalla se vera con tres rayitas mientras que este en pantalla saldra las opciones normales viendo se así cuando es modo telefono la pantalla:
+![foto](5.Menú_Desplegable/img/img1.png "foto")
+
+Y viendo se así cuando la pantalla es más grande se verá así:
+![foto](5.Menú_Desplegable/img/img2.png "foto")
+ 
+ Y al finalizar se verá algo asi:
+ ![foto](5.Menú_Desplegable/img/img3.png "foto")
+ ![foto](5.Menú_Desplegable/img/img1.png "foto")
+ ![foto](5.Menú_Desplegable/img/img4.png "foto")
+
+ teniendo esos botones que no conducen a ningun lado como orden nueva y instagram, etc.
+ 
