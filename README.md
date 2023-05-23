@@ -76,7 +76,7 @@ Y al hacer todo el proceso de css para decorar y agregarle forma, centrarlo, dec
 
 # DARK THEME 
 
-En este proyecto vamos a ver  un tool es una funcionalidad muy facil con el tema claro y oscuro y usaremos las herramientas css, scss, html y js, usaremos un identificador, tendremos un boton que cuando le agamos click estará en off y se le de otro click va a estrar en on dentro del tool y se le dara unos estilos y cuando la clase se active lo que vamos a hacer es que se cambie aun tono blanco
+En este proyecto vamos a ver  un tool es una funcionalidad muy facil con el tema claro y oscuro y usaremos las herramientas css, scss, html y js, usaremos un identificador, tendremos un boton que cuando le hacemos click estará en off y se le de otro click va a entrar en on dentro del tool y se le dará unos estilos y cuando la clase se active lo que vamos a hacer es que se cambie aun tono blanco
 
 Al finalizar despues de decorar y acomodar los botones se va a ver algo así:
 
@@ -86,7 +86,8 @@ modo claro:
 
 ![foto12](4.Dark_theme/img/foto12.png "foto12")
 # MENU DE KFC
-Lo que haremos en el ultimo ejercicio es como dice un titulo un menú de KFC donde utilizaremos todo lo que hemos echos en los anteriores ejercicios utilizando css, javascript, scss, css.map poniendo le los anchos máximos y minímos para el menú, haciendo como que el menú sea desplegable ya que cuando este en modo telefono la pantalla se vera con tres rayitas mientras que este en pantalla saldra las opciones normales viendo se así cuando es modo telefono la pantalla:
+Lo que haremos en el ultimo ejercicio es como dice un titulo un menú de KFC donde utilizaremos todo lo que hemos echos en los anteriores ejercicios utilizando css, javascript, scss, css.map poniendo le los anchos máximos y minímos para el menú, haciendo como que el menú sea desplegable ya que cuando este en modo telefono la pantalla se vera con tres rayitas mientras que este en pantalla saldrá las opciones normales viendo se así cuando es modo teléfono la pantalla:
+
 ![foto](5.Menú_Desplegable/img/img1.png "foto")
 
 Y viendo se así cuando la pantalla es más grande se verá así:
